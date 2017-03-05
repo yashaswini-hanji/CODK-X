@@ -5,5 +5,5 @@ git clone https://github.com/01org/CODK-X.git
 
 cd CODK-X
 
-make clone BRANCH  
+make clone BRANCH=<branch-name>
 Branch name will be passed as parameter to clone respective project (Branch names : arduino101 , tintytile)
